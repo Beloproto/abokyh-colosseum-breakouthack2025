@@ -1,19 +1,6 @@
 # abokyh-colosseum-breakouthack2025
 Abokyh is a crypto-based gift card platform designed to enable seamless, affordable, and secure transactions in Francophone Africa. By building on Solana, we're looking to integrate accessible features both for users and local merchants to make their daily shop habits more easier through crypto.
 
-Abokyh/
-
-├── contracts/             # Anchor smart contracts (Rust)
-
-│   └── gift_card/         # Gift card logic (mint, redeem, burn)
-
-├── docs/                  # Hackathon documentation, pitch deck
-
-├── tests/                 # Smart contract/unit tests
-
-└── README.md              # You are here 🚀
-
-
 # Abokyh – Solana-Powered Gift Cards for Africa
 
 This Hackathon edition is powered by **Solana**, with features like on-chain NFTs, Solana Pay, and seamless mobile airtime/data redemption.
