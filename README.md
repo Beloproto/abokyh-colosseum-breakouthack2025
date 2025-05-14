@@ -3,9 +3,13 @@ Abokyh is a crypto-based gift card platform designed to enable seamless, afforda
 
 aboki-solana/
 ├── contracts/             # Anchor smart contracts (Rust)
+
 │   └── gift_card/         # Gift card logic (mint, redeem, burn)
+
 ├── docs/                  # Hackathon documentation, pitch deck
+
 ├── tests/                 # Smart contract/unit tests
+
 └── README.md              # You are here 🚀
 
 
